@@ -1,0 +1,6 @@
+model_checkpoint_path: "third-100"
+all_model_checkpoint_paths: "third-60"
+all_model_checkpoint_paths: "third-70"
+all_model_checkpoint_paths: "third-80"
+all_model_checkpoint_paths: "third-90"
+all_model_checkpoint_paths: "third-100"
