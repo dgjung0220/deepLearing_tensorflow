@@ -1,10 +1,10 @@
 * [시작하기](1.start.md)
-* Linear regression(1)
-* Tensorflow computional graph
-* Linear regression(2)
-* Logistic classification
-* Multinomial Problem
-* Application & Tips
+* [Linear regression(1)](2.Linear_regression.md)
+* [Tensorflow computional graph](3.Tensorflow_Computational_graph.md)
+* [Linear regression(2)](4.Simplified_hypothesis.md)
+* [Logistic classification](5.Logistic_Classification.md)
+* [Multinomial Problem](6.multinomial.md)
+* [Application & Tips](7.Application&Tips.md)
 
 * 관련 링크
 	* [논문으로 시작하는 딥러닝](http://www.edwith.org/deeplearningchoi)
