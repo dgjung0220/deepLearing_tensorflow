@@ -13,3 +13,4 @@
 	* [이찬우님 채널](https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA)
 	* [모두의 연구소 딥러닝](http://www.whydsp.org/284)
 	* [pr12 딥러닝 논문 읽기 모임](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
+	* [딥러닝 ](https://www.mindmeister.com/812276967/_)
