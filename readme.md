@@ -14,4 +14,4 @@
 	* [모두의 연구소 딥러닝](http://www.whydsp.org/284)
 	* [pr12 딥러닝 논문 읽기 모임](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 	* [딥러닝 마인드맵](https://www.mindmeister.com/812276967/_)
-	* [Scipy 강의 노트] (https://www.scipy-lectures.org/)
+	* [Scipy 강의 노트](https://www.scipy-lectures.org/)
